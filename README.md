@@ -5,7 +5,7 @@
   
   <br>
   <samp>
-    <i>Yo!</i> I'm <b>Marco</b>.
+    <i>Yo!✌️</i> I'm <b>Marco</b>.
     <br>
     I'm an ITA Student form Syria.
     <br>
