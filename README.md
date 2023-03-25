@@ -1,16 +1,6 @@
 <p align="center">
   <br>
   
-  <img width="200" src="https://thedise.me/src/images/hi.webp">
+  <img src="1679730545282.png" width="70%" />
   
   <br>
-  <samp>
-    <i>Yo!✌️</i> I'm <b>Mohammed</b>,
-    <br>
-    aka Marco
-    <br>
-  </samp>
-  
-  <br>
-  <br>
-</p>
